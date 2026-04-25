@@ -43,7 +43,7 @@ To import key from mnemonic
 soundness-cli import-key  --name <NAME>  --mnemonic <MNEMONIC>
 Join Discord
 https://discord.gg/ZrCbgE2q
-Go to #Testnet-access and submit your Pub-Key
+Go to # Testnet-access and submit your Pub-Key
 
 The registration is currently closed but if you already registred you can now play the game and generate the proofs
 
