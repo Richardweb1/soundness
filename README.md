@@ -19,7 +19,7 @@ http://github.com/codespaces
 Open a terminal in your Codespace and run the following commands:
 
 sudo apt update && sudo apt upgrade -y
-curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
+curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness layer/main/soundnessup/install | bash
 source /home/codespace/.bashrc
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs/ | sh
 . "$HOME/.cargo/env"
