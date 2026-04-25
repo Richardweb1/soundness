@@ -10,7 +10,7 @@ Censorship Resistance: No single entity can block or reorder transactions.
 Shared Economic Security: Validators re-stake assets across multiple blockchains.
 Cross-Chain Interoperability: Proofs efficiently verified across different networks using decentralized data availability.
 Steps to Register for the Soundness Testnet
-Visit the Official Website
+Visit the Official Website . 
 https://soundness.xyz/
 Submit your email (try to use the same email as your GitHub account).
 
