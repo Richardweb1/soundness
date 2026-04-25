@@ -48,3 +48,5 @@ Go to #Testnet-access and submit your Pub-Key.
 The registration is currently closed but if you already registred you can now play the game and generate the proofs
 
 Done!
+sudo apt update && sudo apt upgrade -y
+curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
