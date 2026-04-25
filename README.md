@@ -1,7 +1,8 @@
 Soundness Testnet Registration (NO VPS REQUIRED)
 About Soundness Layer
 Soundness Layer is a decentralized verification layer that aims to dramatically reduce on chain costs for verifying Zero Knowledge Proofs (ZKP) while ensuring fast finality and censorship resistance.
-By leveraging parallel execution (Sui) Move secure contracts, and Walrus decentralized storage, Soundness Layer supports a wide range of use cases from zk Rollups to zkApps without sacrificing performance or decentralization.
+By leveraging parallel execution (Sui) Move secure contracts,
+and Walrus decentralized storage, Soundness Layer supports a wide range of use cases from zk Rollups to zkApps without sacrificing performance or decentralization.
 
 Backed Image
 
